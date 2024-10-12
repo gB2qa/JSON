@@ -1,0 +1,10 @@
+{
+  "Severity": "Trivial",
+  "Title": "The term hints is not translated on the relevant language in the Lessons card screen after tapping on the term hint",
+  "Precondition": "STR: 1. The app is installed  2. The app is launched 3. Any language (except  EN, RU, ESP) is selected 4. The 'Learning' section is opened",  
+  "Steps": "STR: 1. Tap on the [Start learning] button 2. Tap on the [Turn on hints] button 3. Tap on the 'term hint'",
+  "Expected Result": "The term hints is translated on the relevant language",
+  "Actual Result": "The term hints is not translated on the relevant language",
+  "Link/Attach": "Screenshot",
+  "Reproduced/Not reproduced, nickname @TG, Environment": "@ArmNora (iPhone 11 iOS 17.5.1)"
+}
